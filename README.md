@@ -15,7 +15,7 @@
   </li>
   <h3>Bug Fixes</h3>
   <li>Fixed a bug where the invincibility is shorter than it should be</li>
-  <li>Fixed a bug where the bullets' hitboxes weren't perfect, making diagnal bullets have a bigger hitbox than it should have</li>
+  <li>Fixed a bug where the bullets' hitboxes weren't perfect, making diagonal bullets have a bigger hitbox than it should have</li>
   <li>Fixed a bug where the game's icon won't display unless you exit the main menu for the first time</li>
 </ul>
 <h3>Release 1.0</h3>
